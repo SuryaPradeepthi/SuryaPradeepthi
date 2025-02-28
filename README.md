@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chakkasuryapradeepthi@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1F9EbiG11TqSnS5Vb6i1OG4D3pnhR7fdu/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1KsXhsx_iVV_IQBXIVBuYJr2bmKkC0678/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suryapradeepthi-chakka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryapradeepthi-chakka" height="30" width="40" /></a>
